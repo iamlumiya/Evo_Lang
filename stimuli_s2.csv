@@ -1,0 +1,13 @@
+item_s2,name_s2,visual_s2,auditory_s2,evolved_mod_s2,spoken_code,written_code,picture_code
+round2,kulka,round2.png,kulka.wav,spoken,13,37,50
+round3,milka,round3.png,milka.wav,spoken,14,38,51
+round4,ilka,round4.png,ilka.wav,spoken,15,39,52
+sharp12,kutka,sharp12.png,kutka.wav,spoken,16,40,61
+sharp7,kika,sharp7.png,kika.wav,spoken,17,41,55
+sharp9,kilka,sharp9.png,kilka.wav,spoken,18,42,57
+round1,nipal,round1.png,nipal.wav,written,19,43,49
+round5,lukn,round5.png,lukn.wav,written,20,44,53
+round6,altmil,round6.png,altmil.wav,written,21,45,54
+sharp8,tumi,sharp8.png,tumi.wav,written,22,46,56
+sharp10,linu,sharp10.png,linu.wav,written,23,47,58
+sharp11,pimpak,sharp11.png,pimpak.wav,written,24,48,60

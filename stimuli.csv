@@ -1,0 +1,13 @@
+item_s1,name_s1,visual_s1,auditory_s1,evolved_mod_s1,event_code_s1,item_s2,name_s2,visual_s2,auditory_s2,evolved_mod_s2,event_code_s2
+round1,nak,round1.png,nak.wav,spoken,,round2,kulka,round2.png,kulka.wav,spoken,
+round3,munilk,round3.png,munilk.wav,spoken,,round3,milka,round3.png,milka.wav,spoken,
+round5,nuilk,round5.png,nuilk.wav,spoken,,round4,ilka,round4.png,ilka.wav,spoken,
+sharp10,manuilk,sharp10.png,manuilk.wav,spoken,,sharp12,kutka,sharp12.png,kutka.wav,spoken,
+sharp12,manilk,sharp12.png,manilk.wav,spoken,,sharp7,kika,sharp7.png,kika.wav,spoken,
+sharp8,nailk,sharp8.png,nailk.wav,spoken,,sharp9,kilka,sharp9.png,kilka.wav,spoken,
+round2,lumk,round2.png,lumk.wav,written,,round1,nipal,round1.png,nipal.wav,written,
+round4,inlup,round4.png,inlup.wav,written,,round5,lukn,round5.png,lukn.wav,written,
+round6,akmil,round6.png,akmil.wav,written,,round6,altmil,round6.png,altmil.wav,written,
+sharp11,nipat,sharp11.png,nipat.wav,written,,sharp8,tumi,sharp8.png,tumi.wav,written,
+sharp7,ilka,sharp7.png,ilka.wav,written,,sharp10,linu,sharp10.png,linu.wav,written,
+sharp9,pimpu,sharp9.png,pimpu.wav,written,,sharp11,pimpak,sharp11.png,pimpak.wav,written,

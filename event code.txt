@@ -1,0 +1,33 @@
+Event code for Evolution Language
+
+
+
+1 - 12 Spoken code for Set 1
+13 - 24 Spoken code for Set 2
+25 - 36 Written code for Set 1
+37 - 48 Written code for Set 2
+49 - 60 Picture code for 12 images
+
+
+61 match code for spoken modality 
+62 mismatch code for spoken modality
+63 match code for written modality
+64 mismatch for written modality
+
+
+65 production code for spoken
+66 production code for written
+67 initial presentation
+68 recognition
+69 second presentation
+70 name
+
+88 - response window
+
+99 - Decision made; first typing for written production/ first speech for spoken production 
+
+101 - key pressing for left/match
+102 - key pressing for right/mismatch
+103 - mouse clicking
+
+
